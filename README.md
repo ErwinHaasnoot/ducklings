@@ -1,7 +1,8 @@
 # ducklings
-Ducklings are cute
+Ducklings are fast
 
-#TODO:
+---------------------
+# TODO:
 
 #### Alikh
 1. MATLAB baseline
