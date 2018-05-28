@@ -9,4 +9,4 @@ Ducklings are fast
 2. NIST comp
 3. MATLAB implementation
 4. Benchmark
-[5. Radial heatmap CI 4 MATLAB]
+* [Radial heatmap CI 4 MATLAB]
